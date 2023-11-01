@@ -3,8 +3,11 @@ This repository is for our college internship project of creating a car parking 
 
 ## Tech stack and languages used
 1.Python
+
 2.Flask
+
 3.MongoDB
+
 4.YOLOv7
 
 ## How to use this repo?
